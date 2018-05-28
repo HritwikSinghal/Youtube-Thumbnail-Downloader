@@ -1,18 +1,21 @@
 # Youtube_Thumbnail_Downloader
 
-Download, then resize, then crop Youtube Video Thumbnails, by simply providing ID of the videos in a txt file.
 
-This will download 1280 * 720 image, then resize it to the cofiguration specified (900 * 600 by default), then crop 500*500 middle portion of image
+Download, then resize, then crop Youtube Video Thumbnails, by simply providing URL list of the videos in a txt file, named 'ID.txt'.
+You have to place URL of videos in each new line without any spaces.
 
-'https://www.youtube.com/watch?v=wArETCVkS4g' This is a typical youtube URL.
-The portion after '=' is the ID of video i.e 'wArETCVkS4g' in this case.
+This will download 1280 * 720 image, then resize it to the cofiguration specified (900 * 600 by default),
+then crop 500*500 middle portion of image
 
-You have to create a txt file named 'ID.txt' and place all the ID of videos
-in each new line without any spaces
+
+
+NOTE: url should be only like 'https://www.youtube.com/watch?v=wArETCVkS4g'
+		It should not be like 'https://www.youtube.com/watch?v=wArETCVkS4g&eohoeht?eueu', in this case and others, 
+		only part before '&' is useful
 
 -------------------------------------------------------------------------------
 
-How to manully download thumbnail of video.
+How to manully download thumbnail of video using video ID.
 
 Replace "VIDEOID" with your selected video's ID number!
 
