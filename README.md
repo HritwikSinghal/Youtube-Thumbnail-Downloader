@@ -1,6 +1,6 @@
 # Youtube_Thumbnail_Downloader
 
-Download Youtube Video Thumbnails by simply providing ID of the videos
+Download, then resize, then crop Youtube Video Thumbnails, by simply providing ID of the videos
 
 'https://www.youtube.com/watch?v=wArETCVkS4g' This is a typical youtube URL.
 The portion after '=' is the ID of video i.e 'wArETCVkS4g' in this case.
