@@ -15,12 +15,18 @@ How The ID thing works,
 Replace "VIDEOID" with your selected video's ID number!
 
 *For YouTube's Auto-Generated Thumbnails*
+
 Thumbnail 1 [120x90] http://img.youtube.com/vi/VIDEOID/1.jpg
+
 Thumbnail 2 [120x90] http://img.youtube.com/vi/VIDEOID/2.jpg
+
 Thumbnail 3 [120x90] http://img.youtube.com/vi/VIDEOID/3.jpg
 
 *For Custom thumbnails*
+
 Small thumbnail [320x180] https://img.youtube.com/vi/VIDEOID/mqdefault.jpg
+
 Medium thumbnail [480x360] http://img.youtube.com/vi/VIDEOID/0.jpg
+
 Large thumbnail [1280x720 or 1920x1080] https://img.youtube.com/vi/VIDEOID/maxresdefault.jpg
 
