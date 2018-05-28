@@ -14,7 +14,8 @@ from PIL import Image
 def download_image(ids):
     ID_list = []
     for x in open(ids).read().split():
-        ID_list.append(x.strip())
+        y = x.strip()
+        ID_list.append(y[32:])
 
     # take ID of video
     for one_ID in ID_list:
@@ -43,3 +44,4 @@ def download_image(ids):
 
 
 download_image('ID.txt')
+
