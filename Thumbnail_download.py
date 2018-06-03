@@ -15,7 +15,7 @@ def download_image(ids):
     ID_list = []
     for x in open(ids).read().split():
         y = x.strip()
-        ID_list.append(y[32:])
+        ID_list.append(y[32:43])
 
     # take ID of video
     for one_ID in ID_list:
