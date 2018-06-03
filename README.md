@@ -9,7 +9,9 @@ then crop 500*500 middle portion of image
 
 
 NOTE:	If possible url should be like 'https://www.youtube.com/watch?v=wArETCVkS4g'
+
 		It should not be like 'https://www.youtube.com/watch?v=wArETCVkS4g&eohoeht?eueu',
+		
 		in this case and others, only part before '&' is useful
 
 -------------------------------------------------------------------------------
