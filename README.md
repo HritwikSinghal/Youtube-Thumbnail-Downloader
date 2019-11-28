@@ -1,4 +1,4 @@
-# Youtube_Thumbnail_Downloader
+# Youtube Thumbnail Downloader
 
 Download, then resize, then crop Youtube Video Thumbnails, by simply providing URL list of the videos in a txt file, named 'ID.txt'.
 You have to place URL of videos in each new line without any spaces.
