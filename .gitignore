@@ -1,0 +1,28 @@
+.idea/
+__pycache__/
+
+# PyBuilder
+target/
+
+
+# pyenv
+.python-version
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+*.log
+geckodriver.log
+test_bit
+./test_bit
+creds.json
+./creds.json
+cat.json

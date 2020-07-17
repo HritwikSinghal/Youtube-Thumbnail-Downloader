@@ -6,6 +6,7 @@
 # Also, you can modify functions as per your need.
 
 import urllib
+
 from PIL import Image
 
 
@@ -44,4 +45,3 @@ def download_image(ids):
 
 
 download_image('ID.txt')
-

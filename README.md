@@ -6,13 +6,35 @@ You have to place URL of videos in each new line without any spaces.
 This will download 1280 * 720 image, then resize it to the cofiguration specified (900 * 600 by default),
 then crop 500*500 middle portion of image
 
+### Installation:
+
+- Download and Install python 3:
+```
+    Windows: https://www.python.org/downloads/ 
+    Linux: sudo apt insatll python3
+```
+
+- Clone this repository using
+```
+$ git clone https://github.com/HritwikSinghal/Youtube-Thumbnail-Downloader
+```
+- Enter the directory and install all the requirements using
+```
+$ pip3 install -r requirements.txt
+```
+- Run the app using
+```
+$ python3 Thumbnail_Downloader.py
+```
+
+### Working.
 
 
 NOTE:	If possible url should be like 'https://www.youtube.com/watch?v=wArETCVkS4g'
 
-		It should not be like 'https://www.youtube.com/watch?v=wArETCVkS4g&eohoeht?eueu',
+    It should not be like 'https://www.youtube.com/watch?v=wArETCVkS4g&eohoeht?eueu',
 		
-		in this case and others, only part before '&' is useful
+    in this case and others, only part before '&' is useful
 
 -------------------------------------------------------------------------------
 
