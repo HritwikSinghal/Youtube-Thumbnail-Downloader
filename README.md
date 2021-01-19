@@ -24,7 +24,7 @@ $ pip3 install -r requirements.txt
 ```
 - Run the app using
 ```
-$ python3 Thumbnail_Downloader.py
+$ python3 Thumbnail_download.py
 ```
 
 ### Working.
